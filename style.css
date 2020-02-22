@@ -23,6 +23,14 @@ img {
   z-index: -1;
 }
 
+.btn {
+  border-radius: 0;
+  margin-bottom: 20px;
+  background-color: #59aaa5;
+  color: white;
+  font-weight: 500;
+}
+
 .portfolioNavBar {
   background-color: white;
 }
