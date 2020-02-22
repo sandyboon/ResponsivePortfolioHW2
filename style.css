@@ -4,6 +4,14 @@ body {
   background-color: rgb(237, 237, 237);
 }
 
+h2 {
+  color: #59aaa5;
+}
+
+hr {
+  border: 2px solid rgb(221, 221, 221);
+}
+
 .portfolioNavheading {
   background-color: #59aaa5;
   color: white;
