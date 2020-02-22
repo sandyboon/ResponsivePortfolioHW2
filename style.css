@@ -36,11 +36,13 @@ hr {
   background-color: white;
 }
 
-.portfolioNavBarHeading {
-  padding: 4em;
-}
-
-.headerWrapper {
-  border-bottom: 2px solid grey;
-  border-style: solid;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(102, 102, 102);
+  color: white;
+  text-align: center;
+  border-top: 5px solid #59aaa5;
 }
