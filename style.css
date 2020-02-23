@@ -49,14 +49,17 @@ img {
 }
 
 .imgBanner {
+  position: absolute;
+  bottom: 30px;
   width: 250px;
   height: 50px;
   z-index: 100;
   margin-top: 150px;
   padding: 0px;
   background-color: #59aaa5;
-  color: red;
+  color: white;
   font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
 }
 
 .footer {
